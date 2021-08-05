@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natalieurban13
 - 👀 I’m interested in coding, writing, and anything outdoors. 
-- 🌱 I’m currently studying Computer Data Science
+- 🌱 I’m currently studying Computer Data Science and am looking for possible internships to help me grow in my coding skills.
 - 📫 How to reach me: natalie.urban.business@gmail.com
 
 <!---
