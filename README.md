@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natalieurban13
-- 👀 I’m interested in coding, writing, and any fun challenges. 
+- 👀 I’m interested in coding, writing, and anything outdoors. 
 - 🌱 I’m currently studying Computer Data Science
 - 📫 How to reach me: natalie.urban.business@gmail.com
 
